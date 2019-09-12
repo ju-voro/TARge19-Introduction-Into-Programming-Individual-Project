@@ -2,11 +2,11 @@
 ## Programmeerimise alused. Iseseisev ülesanne. C#. Windows Forms.
 ## Projekti kirjeldus:
 
-**-Ilmarakendus**
-**-IDE:** Visual Studio
-**Keel:** C#
-**Vahend:** Windows Forms
-**Lisaressursid/lisavahendid:**
+### Ilmarakendus
+### IDE:Visual Studio
+### Keel: C#
+### Vahend:Windows Forms
+### Lisaressursid/lisavahendid:
 - openWeather API - https://openweathermap.org/ - vajab registreerimist
 
 
